@@ -1,0 +1,8 @@
+_Store
+.DS_Store
+node_modules
+node_modules/*
+app/node_modules
+app/node_modules/*
+app/dist/*
+app/js/bundle.js
